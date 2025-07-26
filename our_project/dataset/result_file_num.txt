@@ -1,0 +1,1774 @@
+Found 220 parent folders to process.
+
+Processing folder 1/220: EX03AM26
+Processing folder 2/220: EX02AM18
+Processing folder 3/220: EX04AM32
+Processing folder 4/220: EX04AM03
+Processing folder 5/220: EX06AM28
+Processing folder 6/220: EX03AM19
+Processing folder 7/220: EX03AM39
+Processing folder 8/220: EX04AM05
+Processing folder 9/220: EX04AM12
+Processing folder 10/220: EX03AM05
+Processing folder 11/220: EX00PM16
+Processing folder 12/220: EX06PM00
+Processing folder 13/220: EX03AM25
+Processing folder 14/220: EX04AM29
+Processing folder 15/220: EX06PM07
+Processing folder 16/220: EX00PM10
+Processing folder 17/220: EX06AM15
+Processing folder 18/220: EX05AM27
+Processing folder 19/220: EX05AM42
+Processing folder 20/220: EX04AM09
+Processing folder 21/220: EX03AM01-0
+Processing folder 22/220: EX02AM08
+Processing folder 23/220: EX05AM24
+Processing folder 24/220: EX01PM12
+Processing folder 25/220: EX06PM14
+Processing folder 26/220: EX05AM30
+Processing folder 27/220: EX05AM07
+Processing folder 28/220: EX06AM11
+Processing folder 29/220: EX05AM19
+Processing folder 30/220: EX06PM01
+Processing folder 31/220: EX04AM23
+Processing folder 32/220: EX05AM37
+Processing folder 33/220: EX00PM04
+Processing folder 34/220: EX01PM09
+Processing folder 35/220: EX00AM03
+Processing folder 36/220: EX05AM46
+Processing folder 37/220: EX00PM18
+Processing folder 38/220: EX03AM16
+Processing folder 39/220: EX03AM32
+Processing folder 40/220: EX00AM00
+Processing folder 41/220: EX06PM03
+Processing folder 42/220: EX05AM41
+Processing folder 43/220: EX03AM29
+Processing folder 44/220: EX04AM02
+Processing folder 45/220: EX00PM09
+Processing folder 46/220: EX05AM06
+Processing folder 47/220: EX06AM21
+Processing folder 48/220: EX05AM26
+Processing folder 49/220: EX05AM08
+Processing folder 50/220: EX06AM19
+Processing folder 51/220: EX05AM03
+Processing folder 52/220: EX03AM21
+Processing folder 53/220: EX06PM21
+Processing folder 54/220: EX06PM04
+Processing folder 55/220: EX03AM36
+Processing folder 56/220: EX02AM16
+Processing folder 57/220: EX04AM13
+Processing folder 58/220: EX05AM02
+Processing folder 59/220: EX06AM26
+Processing folder 60/220: EX00PM06
+Processing folder 61/220: EX06AM06
+Processing folder 62/220: EX05AM04
+Processing folder 63/220: EX05AM29
+Processing folder 64/220: EX03AM08
+Processing folder 65/220: EX06AM32
+Processing folder 66/220: EX05AM17
+Processing folder 67/220: EX05AM48
+Processing folder 68/220: EX03AM10
+Processing folder 69/220: EX04AM31
+Processing folder 70/220: EX01PM04
+Processing folder 71/220: EX04AM19
+Processing folder 72/220: EX03AM02
+Processing folder 73/220: EX04AM30
+Processing folder 74/220: EX00PM03
+Processing folder 75/220: EX00PM13
+Processing folder 76/220: EX05AM49
+Processing folder 77/220: EX01PM00
+Processing folder 78/220: EX04AM36
+Processing folder 79/220: EX05AM01
+Processing folder 80/220: EX04AM08
+Processing folder 81/220: EX04AM25
+Processing folder 82/220: EX00PM08
+Processing folder 83/220: EX04AM20
+Processing folder 84/220: EX05AM16
+Processing folder 85/220: EX00PM00
+Processing folder 86/220: EX04AM28
+Processing folder 87/220: EX05AM35
+Processing folder 88/220: EX02AM11
+Processing folder 89/220: EX03AM35
+Processing folder 90/220: EX02AM03
+Processing folder 91/220: EX02AM15
+Processing folder 92/220: EX01PM22
+Processing folder 93/220: EX04AM06
+Processing folder 94/220: EX06AM16
+Processing folder 95/220: EX06PM06
+Processing folder 96/220: EX01PM08
+Processing folder 97/220: EX00AM02
+Processing folder 98/220: EX05AM14
+Processing folder 99/220: EX05AM40
+Processing folder 100/220: EX05AM15
+Processing folder 101/220: EX06AM12
+Processing folder 102/220: EX03AM09-1
+Processing folder 103/220: EX06AM02
+Processing folder 104/220: EX03AM24
+Processing folder 105/220: EX02AM21
+Processing folder 106/220: EX06PM08
+Processing folder 107/220: EX03AM20
+Processing folder 108/220: EX05AM12
+Processing folder 109/220: EX01PM18
+Processing folder 110/220: EX05AM11
+Processing folder 111/220: EX04AM11
+Processing folder 112/220: EX06AM31
+Processing folder 113/220: EX03AM40
+Processing folder 114/220: EX02AM12
+Processing folder 115/220: EX03AM33
+Processing folder 116/220: EX05AM34
+Processing folder 117/220: EX04AM24
+Processing folder 118/220: EX05AM18
+Processing folder 119/220: EX04AM34
+Processing folder 120/220: EX05AM39
+Processing folder 121/220: EX06PM20
+Processing folder 122/220: EX01PM14
+Processing folder 123/220: EX04AM33
+Processing folder 124/220: EX03AM37
+Processing folder 125/220: EX04AM14
+Processing folder 126/220: EX05AM31
+Processing folder 127/220: EX01PM23
+Processing folder 128/220: EX01PM02
+Processing folder 129/220: EX06PM12
+Processing folder 130/220: EX03AM22
+Processing folder 131/220: EX01PM10
+Processing folder 132/220: EX05AM09
+Processing folder 133/220: EX06AM24
+Processing folder 134/220: EX05AM28
+Processing folder 135/220: EX04AM10
+Processing folder 136/220: EX06AM09
+Processing folder 137/220: EX06AM20
+Processing folder 138/220: EX05AM38
+Processing folder 139/220: EX06AM30
+Processing folder 140/220: EX00PM05
+Processing folder 141/220: EX04AM22
+Processing folder 142/220: EX02AM02
+Processing folder 143/220: EX03AM34
+Processing folder 144/220: EX02AM05
+Processing folder 145/220: EX06PM05
+Processing folder 146/220: EX06AM25
+Processing folder 147/220: EX03AM13
+Processing folder 148/220: EX01PM19
+Processing folder 149/220: EX06AM17
+Processing folder 150/220: EX03AM07
+Processing folder 151/220: EX04AM21
+Processing folder 152/220: EX06AM01
+Processing folder 153/220: EX03AM03
+Processing folder 154/220: EX01PM13
+Processing folder 155/220: EX02AM17
+Processing folder 156/220: EX04AM35
+Processing folder 157/220: EX00PM17
+Processing folder 158/220: EX01PM01
+Processing folder 159/220: EX05AM47
+Processing folder 160/220: EX04AM01
+Processing folder 161/220: EX03AM01-1
+Processing folder 162/220: EX03AM17
+Processing folder 163/220: EX04AM04
+Processing folder 164/220: EX06AM22
+Processing folder 165/220: EX01PM03
+Processing folder 166/220: EX01PM24
+Processing folder 167/220: EX02AM20-0
+Processing folder 168/220: EX04AM18
+Processing folder 169/220: EX05AM44
+Processing folder 170/220: EX06AM00
+Processing folder 171/220: EX04AM00
+Processing folder 172/220: EX06PM19
+Processing folder 173/220: EX05AM36
+Processing folder 174/220: EX02AM09
+Processing folder 175/220: EX05AM20
+Processing folder 176/220: EX06AM14
+Processing folder 177/220: EX06AM05
+Processing folder 178/220: EX06PM11
+Processing folder 179/220: EX00PM11
+Processing folder 180/220: EX06AM07
+Processing folder 181/220: EX03AM23
+Processing folder 182/220: EX03AM31
+Processing folder 183/220: EX03AM04
+Processing folder 184/220: EX06AM10
+Processing folder 185/220: EX03AM06
+Processing folder 186/220: EX01PM20
+Processing folder 187/220: EX06PM10
+Processing folder 188/220: EX03AM27
+Processing folder 189/220: EX06PM02
+Processing folder 190/220: EX00PM07
+Processing folder 191/220: EX01PM11
+Processing folder 192/220: EX02AM14
+Processing folder 193/220: EX02AM20-1
+Processing folder 194/220: EX04AM16
+Processing folder 195/220: EX06PM13
+Processing folder 196/220: EX02AM07
+Processing folder 197/220: EX01PM17
+Processing folder 198/220: EX03AM15
+Processing folder 199/220: EX05AM32
+Processing folder 200/220: EX01PM21
+Processing folder 201/220: EX05AM45
+Processing folder 202/220: EX05AM05
+Processing folder 203/220: EX03AM11
+Processing folder 204/220: EX06PM24
+Processing folder 205/220: EX06AM18
+Processing folder 206/220: EX06PM18
+Processing folder 207/220: EX02AM00
+Processing folder 208/220: EX05AM22
+Processing folder 209/220: EX03AM30
+Processing folder 210/220: EX03AM12
+Processing folder 211/220: EX03AM14
+Processing folder 212/220: EX01PM07
+Processing folder 213/220: EX06AM04
+Processing folder 214/220: EX04AM26
+Processing folder 215/220: EX06AM29
+Processing folder 216/220: EX02AM04
+Processing folder 217/220: EX06AM27
+Processing folder 218/220: EX04AM15
+Processing folder 219/220: EX06AM08
+Processing folder 220/220: EX02AM22
+
+Summary of file counts by folder:
+
+Folder: EX03AM26
+  gray: 1720 files
+  measurements: 1720 files
+  point_cloud: 1720 files
+  point_cloud_transformed: 1720 files
+
+Folder: EX02AM18
+  gray: 1625 files
+  measurements: 1625 files
+  point_cloud: 1625 files
+  point_cloud_transformed: 1625 files
+
+Folder: EX04AM32
+  gray: 1549 files
+  measurements: 1549 files
+  point_cloud: 1549 files
+  point_cloud_transformed: 1549 files
+
+Folder: EX04AM03
+  gray: 457 files
+  measurements: 457 files
+  point_cloud: 457 files
+  point_cloud_transformed: 457 files
+
+Folder: EX06AM28
+  gray: 482 files
+  measurements: 482 files
+  point_cloud: 482 files
+  point_cloud_transformed: 482 files
+
+Folder: EX03AM19
+  gray: 1198 files
+  measurements: 1198 files
+  point_cloud: 1198 files
+  point_cloud_transformed: 1198 files
+
+Folder: EX03AM39
+  gray: 269 files
+  measurements: 269 files
+  point_cloud: 269 files
+  point_cloud_transformed: 269 files
+
+Folder: EX04AM05
+  gray: 1498 files
+  measurements: 1498 files
+  point_cloud: 1498 files
+  point_cloud_transformed: 1498 files
+
+Folder: EX04AM12
+  gray: 1558 files
+  measurements: 1558 files
+  point_cloud: 1558 files
+  point_cloud_transformed: 1558 files
+
+Folder: EX03AM05
+  gray: 335 files
+  measurements: 335 files
+  point_cloud: 335 files
+  point_cloud_transformed: 335 files
+
+Folder: EX00PM16
+  gray: 475 files
+  measurements: 475 files
+  point_cloud: 475 files
+  point_cloud_transformed: 475 files
+
+Folder: EX06PM00
+  gray: 220 files
+  measurements: 220 files
+  point_cloud: 220 files
+  point_cloud_transformed: 220 files
+
+Folder: EX03AM25
+  gray: 585 files
+  measurements: 585 files
+  point_cloud: 585 files
+  point_cloud_transformed: 585 files
+
+Folder: EX04AM29
+  gray: 918 files
+  measurements: 918 files
+  point_cloud: 918 files
+  point_cloud_transformed: 918 files
+
+Folder: EX06PM07
+  gray: 829 files
+  measurements: 829 files
+  point_cloud: 829 files
+  point_cloud_transformed: 829 files
+
+Folder: EX00PM10
+  gray: 1236 files
+  measurements: 1236 files
+  point_cloud: 1236 files
+  point_cloud_transformed: 1236 files
+
+Folder: EX06AM15
+  gray: 310 files
+  measurements: 310 files
+  point_cloud: 310 files
+  point_cloud_transformed: 310 files
+
+Folder: EX05AM27
+  gray: 490 files
+  measurements: 490 files
+  point_cloud: 490 files
+  point_cloud_transformed: 490 files
+
+Folder: EX05AM42
+  gray: 552 files
+  measurements: 552 files
+  point_cloud: 552 files
+  point_cloud_transformed: 552 files
+
+Folder: EX04AM09
+  gray: 844 files
+  measurements: 844 files
+  point_cloud: 844 files
+  point_cloud_transformed: 844 files
+
+Folder: EX03AM01-0
+  gray: 251 files
+  measurements: 251 files
+  point_cloud: 251 files
+  point_cloud_transformed: 251 files
+
+Folder: EX02AM08
+  gray: 1511 files
+  measurements: 1511 files
+  point_cloud: 1511 files
+  point_cloud_transformed: 1511 files
+
+Folder: EX05AM24
+  gray: 253 files
+  measurements: 253 files
+  point_cloud: 253 files
+  point_cloud_transformed: 253 files
+
+Folder: EX01PM12
+  gray: 1900 files
+  measurements: 1900 files
+  point_cloud: 1900 files
+  point_cloud_transformed: 1900 files
+
+Folder: EX06PM14
+  gray: 280 files
+  measurements: 280 files
+  point_cloud: 280 files
+  point_cloud_transformed: 280 files
+
+Folder: EX05AM30
+  gray: 146 files
+  measurements: 146 files
+  point_cloud: 146 files
+  point_cloud_transformed: 146 files
+
+Folder: EX05AM07
+  gray: 503 files
+  measurements: 503 files
+  point_cloud: 503 files
+  point_cloud_transformed: 503 files
+
+Folder: EX06AM11
+  gray: 498 files
+  measurements: 498 files
+  point_cloud: 498 files
+  point_cloud_transformed: 498 files
+
+Folder: EX05AM19
+  gray: 622 files
+  measurements: 622 files
+  point_cloud: 622 files
+  point_cloud_transformed: 622 files
+
+Folder: EX06PM01
+  gray: 294 files
+  measurements: 294 files
+  point_cloud: 294 files
+  point_cloud_transformed: 294 files
+
+Folder: EX04AM23
+  gray: 1563 files
+  measurements: 1563 files
+  point_cloud: 1563 files
+  point_cloud_transformed: 1563 files
+
+Folder: EX05AM37
+  gray: 252 files
+  measurements: 252 files
+  point_cloud: 252 files
+  point_cloud_transformed: 252 files
+
+Folder: EX00PM04
+  gray: 500 files
+  measurements: 500 files
+  point_cloud: 500 files
+  point_cloud_transformed: 500 files
+
+Folder: EX01PM09
+  gray: 800 files
+  measurements: 800 files
+  point_cloud: 800 files
+  point_cloud_transformed: 800 files
+
+Folder: EX00AM03
+  gray: 500 files
+  measurements: 500 files
+  point_cloud: 500 files
+  point_cloud_transformed: 500 files
+
+Folder: EX05AM46
+  gray: 615 files
+  measurements: 615 files
+  point_cloud: 615 files
+  point_cloud_transformed: 615 files
+
+Folder: EX00PM18
+  gray: 602 files
+  measurements: 602 files
+  point_cloud: 602 files
+  point_cloud_transformed: 602 files
+
+Folder: EX03AM16
+  gray: 1582 files
+  measurements: 1582 files
+  point_cloud: 1582 files
+  point_cloud_transformed: 1582 files
+
+Folder: EX03AM32
+  gray: 1018 files
+  measurements: 1018 files
+  point_cloud: 1018 files
+  point_cloud_transformed: 1018 files
+
+Folder: EX00AM00
+  gray: 943 files
+  measurements: 943 files
+  point_cloud: 943 files
+  point_cloud_transformed: 943 files
+
+Folder: EX06PM03
+  gray: 305 files
+  measurements: 305 files
+  point_cloud: 305 files
+  point_cloud_transformed: 305 files
+
+Folder: EX05AM41
+  gray: 287 files
+  measurements: 287 files
+  point_cloud: 287 files
+  point_cloud_transformed: 287 files
+
+Folder: EX03AM29
+  gray: 431 files
+  measurements: 431 files
+  point_cloud: 431 files
+  point_cloud_transformed: 431 files
+
+Folder: EX04AM02
+  gray: 1570 files
+  measurements: 1570 files
+  point_cloud: 1570 files
+  point_cloud_transformed: 1570 files
+
+Folder: EX00PM09
+  gray: 1000 files
+  measurements: 1000 files
+  point_cloud: 1000 files
+  point_cloud_transformed: 1000 files
+
+Folder: EX05AM06
+  gray: 314 files
+  measurements: 314 files
+  point_cloud: 314 files
+  point_cloud_transformed: 314 files
+
+Folder: EX06AM21
+  gray: 580 files
+  measurements: 580 files
+  point_cloud: 580 files
+  point_cloud_transformed: 580 files
+
+Folder: EX05AM26
+  gray: 541 files
+  measurements: 541 files
+  point_cloud: 541 files
+  point_cloud_transformed: 541 files
+
+Folder: EX05AM08
+  gray: 642 files
+  measurements: 642 files
+  point_cloud: 642 files
+  point_cloud_transformed: 642 files
+
+Folder: EX06AM19
+  gray: 294 files
+  measurements: 294 files
+  point_cloud: 294 files
+  point_cloud_transformed: 294 files
+
+Folder: EX05AM03
+  gray: 794 files
+  measurements: 794 files
+  point_cloud: 794 files
+  point_cloud_transformed: 794 files
+
+Folder: EX03AM21
+  gray: 979 files
+  measurements: 979 files
+  point_cloud: 979 files
+  point_cloud_transformed: 979 files
+
+Folder: EX06PM21
+  gray: 703 files
+  measurements: 703 files
+  point_cloud: 703 files
+  point_cloud_transformed: 703 files
+
+Folder: EX06PM04
+  gray: 989 files
+  measurements: 989 files
+  point_cloud: 989 files
+  point_cloud_transformed: 989 files
+
+Folder: EX03AM36
+  gray: 929 files
+  measurements: 929 files
+  point_cloud: 929 files
+  point_cloud_transformed: 929 files
+
+Folder: EX02AM16
+  gray: 610 files
+  measurements: 610 files
+  point_cloud: 610 files
+  point_cloud_transformed: 610 files
+
+Folder: EX04AM13
+  gray: 1561 files
+  measurements: 1561 files
+  point_cloud: 1561 files
+  point_cloud_transformed: 1561 files
+
+Folder: EX05AM02
+  gray: 845 files
+  measurements: 845 files
+  point_cloud: 845 files
+  point_cloud_transformed: 845 files
+
+Folder: EX06AM26
+  gray: 336 files
+  measurements: 336 files
+  point_cloud: 336 files
+  point_cloud_transformed: 336 files
+
+Folder: EX00PM06
+  gray: 1000 files
+  measurements: 1000 files
+  point_cloud: 1000 files
+  point_cloud_transformed: 1000 files
+
+Folder: EX06AM06
+  gray: 226 files
+  measurements: 226 files
+  point_cloud: 226 files
+  point_cloud_transformed: 226 files
+
+Folder: EX05AM04
+  gray: 726 files
+  measurements: 726 files
+  point_cloud: 726 files
+  point_cloud_transformed: 726 files
+
+Folder: EX05AM29
+  gray: 471 files
+  measurements: 471 files
+  point_cloud: 471 files
+  point_cloud_transformed: 471 files
+
+Folder: EX03AM08
+  gray: 1018 files
+  measurements: 1018 files
+  point_cloud: 1018 files
+  point_cloud_transformed: 1018 files
+
+Folder: EX06AM32
+  gray: 869 files
+  measurements: 869 files
+  point_cloud: 869 files
+  point_cloud_transformed: 869 files
+
+Folder: EX05AM17
+  gray: 355 files
+  measurements: 355 files
+  point_cloud: 355 files
+  point_cloud_transformed: 355 files
+
+Folder: EX05AM48
+  gray: 918 files
+  measurements: 918 files
+  point_cloud: 918 files
+  point_cloud_transformed: 918 files
+
+Folder: EX03AM10
+  gray: 476 files
+  measurements: 476 files
+  point_cloud: 476 files
+  point_cloud_transformed: 476 files
+
+Folder: EX04AM31
+  gray: 519 files
+  measurements: 519 files
+  point_cloud: 519 files
+  point_cloud_transformed: 519 files
+
+Folder: EX01PM04
+  gray: 1250 files
+  measurements: 1250 files
+  point_cloud: 1250 files
+  point_cloud_transformed: 1250 files
+
+Folder: EX04AM19
+  gray: 1811 files
+  measurements: 1811 files
+  point_cloud: 1811 files
+  point_cloud_transformed: 1811 files
+
+Folder: EX03AM02
+  gray: 703 files
+  measurements: 703 files
+  point_cloud: 703 files
+  point_cloud_transformed: 703 files
+
+Folder: EX04AM30
+  gray: 1549 files
+  measurements: 1549 files
+  point_cloud: 1549 files
+  point_cloud_transformed: 1549 files
+
+Folder: EX00PM03
+  gray: 503 files
+  measurements: 503 files
+  point_cloud: 503 files
+  point_cloud_transformed: 503 files
+
+Folder: EX00PM13
+  gray: 1250 files
+  measurements: 1250 files
+  point_cloud: 1250 files
+  point_cloud_transformed: 1250 files
+
+Folder: EX05AM49
+  gray: 796 files
+  measurements: 796 files
+  point_cloud: 796 files
+  point_cloud_transformed: 796 files
+
+Folder: EX01PM00
+  gray: 1500 files
+  measurements: 1500 files
+  point_cloud: 1500 files
+  point_cloud_transformed: 1500 files
+
+Folder: EX04AM36
+  gray: 599 files
+  measurements: 599 files
+  point_cloud: 599 files
+  point_cloud_transformed: 599 files
+
+Folder: EX05AM01
+  gray: 507 files
+  measurements: 507 files
+  point_cloud: 507 files
+  point_cloud_transformed: 507 files
+
+Folder: EX04AM08
+  gray: 619 files
+  measurements: 619 files
+  point_cloud: 619 files
+  point_cloud_transformed: 619 files
+
+Folder: EX04AM25
+  gray: 1471 files
+  measurements: 1471 files
+  point_cloud: 1471 files
+  point_cloud_transformed: 1471 files
+
+Folder: EX00PM08
+  gray: 675 files
+  measurements: 675 files
+  point_cloud: 675 files
+  point_cloud_transformed: 675 files
+
+Folder: EX04AM20
+  gray: 450 files
+  measurements: 450 files
+  point_cloud: 450 files
+  point_cloud_transformed: 450 files
+
+Folder: EX05AM16
+  gray: 140 files
+  measurements: 140 files
+  point_cloud: 140 files
+  point_cloud_transformed: 140 files
+
+Folder: EX00PM00
+  gray: 1000 files
+  measurements: 1000 files
+  point_cloud: 1000 files
+  point_cloud_transformed: 1000 files
+
+Folder: EX04AM28
+  gray: 978 files
+  measurements: 978 files
+  point_cloud: 978 files
+  point_cloud_transformed: 978 files
+
+Folder: EX05AM35
+  gray: 465 files
+  measurements: 465 files
+  point_cloud: 465 files
+  point_cloud_transformed: 465 files
+
+Folder: EX02AM11
+  gray: 875 files
+  measurements: 875 files
+  point_cloud: 875 files
+  point_cloud_transformed: 875 files
+
+Folder: EX03AM35
+  gray: 827 files
+  measurements: 827 files
+  point_cloud: 827 files
+  point_cloud_transformed: 827 files
+
+Folder: EX02AM03
+  gray: 475 files
+  measurements: 475 files
+  point_cloud: 475 files
+  point_cloud_transformed: 475 files
+
+Folder: EX02AM15
+  gray: 1600 files
+  measurements: 1600 files
+  point_cloud: 1600 files
+  point_cloud_transformed: 1600 files
+
+Folder: EX01PM22
+  gray: 1700 files
+  measurements: 1700 files
+  point_cloud: 1700 files
+  point_cloud_transformed: 1700 files
+
+Folder: EX04AM06
+  gray: 1539 files
+  measurements: 1539 files
+  point_cloud: 1539 files
+  point_cloud_transformed: 1539 files
+
+Folder: EX06AM16
+  gray: 665 files
+  measurements: 665 files
+  point_cloud: 665 files
+  point_cloud_transformed: 665 files
+
+Folder: EX06PM06
+  gray: 903 files
+  measurements: 903 files
+  point_cloud: 903 files
+  point_cloud_transformed: 903 files
+
+Folder: EX01PM08
+  gray: 1750 files
+  measurements: 1750 files
+  point_cloud: 1750 files
+  point_cloud_transformed: 1750 files
+
+Folder: EX00AM02
+  gray: 500 files
+  measurements: 500 files
+  point_cloud: 500 files
+  point_cloud_transformed: 500 files
+
+Folder: EX05AM14
+  gray: 724 files
+  measurements: 724 files
+  point_cloud: 724 files
+  point_cloud_transformed: 724 files
+
+Folder: EX05AM40
+  gray: 972 files
+  measurements: 972 files
+  point_cloud: 972 files
+  point_cloud_transformed: 972 files
+
+Folder: EX05AM15
+  gray: 218 files
+  measurements: 218 files
+  point_cloud: 218 files
+  point_cloud_transformed: 218 files
+
+Folder: EX06AM12
+  gray: 172 files
+  measurements: 172 files
+  point_cloud: 172 files
+  point_cloud_transformed: 172 files
+
+Folder: EX03AM09-1
+  gray: 1047 files
+  measurements: 1047 files
+  point_cloud: 1047 files
+  point_cloud_transformed: 1047 files
+
+Folder: EX06AM02
+  gray: 192 files
+  measurements: 192 files
+  point_cloud: 192 files
+  point_cloud_transformed: 192 files
+
+Folder: EX03AM24
+  gray: 809 files
+  measurements: 809 files
+  point_cloud: 809 files
+  point_cloud_transformed: 809 files
+
+Folder: EX02AM21
+  gray: 1320 files
+  measurements: 1320 files
+  point_cloud: 1320 files
+  point_cloud_transformed: 1320 files
+
+Folder: EX06PM08
+  gray: 877 files
+  measurements: 877 files
+  point_cloud: 877 files
+  point_cloud_transformed: 877 files
+
+Folder: EX03AM20
+  gray: 1590 files
+  measurements: 1590 files
+  point_cloud: 1590 files
+  point_cloud_transformed: 1590 files
+
+Folder: EX05AM12
+  gray: 473 files
+  measurements: 473 files
+  point_cloud: 473 files
+  point_cloud_transformed: 473 files
+
+Folder: EX01PM18
+  gray: 449 files
+  measurements: 449 files
+  point_cloud: 449 files
+  point_cloud_transformed: 449 files
+
+Folder: EX05AM11
+  gray: 1038 files
+  measurements: 1038 files
+  point_cloud: 1038 files
+  point_cloud_transformed: 1038 files
+
+Folder: EX04AM11
+  gray: 1023 files
+  measurements: 1023 files
+  point_cloud: 1023 files
+  point_cloud_transformed: 1023 files
+
+Folder: EX06AM31
+  gray: 686 files
+  measurements: 686 files
+  point_cloud: 686 files
+  point_cloud_transformed: 686 files
+
+Folder: EX03AM40
+  gray: 306 files
+  measurements: 306 files
+  point_cloud: 306 files
+  point_cloud_transformed: 306 files
+
+Folder: EX02AM12
+  gray: 1620 files
+  measurements: 1620 files
+  point_cloud: 1620 files
+  point_cloud_transformed: 1620 files
+
+Folder: EX03AM33
+  gray: 424 files
+  measurements: 424 files
+  point_cloud: 424 files
+  point_cloud_transformed: 424 files
+
+Folder: EX05AM34
+  gray: 733 files
+  measurements: 733 files
+  point_cloud: 733 files
+  point_cloud_transformed: 733 files
+
+Folder: EX04AM24
+  gray: 814 files
+  measurements: 814 files
+  point_cloud: 814 files
+  point_cloud_transformed: 814 files
+
+Folder: EX05AM18
+  gray: 822 files
+  measurements: 822 files
+  point_cloud: 822 files
+  point_cloud_transformed: 822 files
+
+Folder: EX04AM34
+  gray: 1477 files
+  measurements: 1477 files
+  point_cloud: 1477 files
+  point_cloud_transformed: 1477 files
+
+Folder: EX05AM39
+  gray: 272 files
+  measurements: 272 files
+  point_cloud: 272 files
+  point_cloud_transformed: 272 files
+
+Folder: EX06PM20
+  gray: 560 files
+  measurements: 560 files
+  point_cloud: 560 files
+  point_cloud_transformed: 560 files
+
+Folder: EX01PM14
+  gray: 1000 files
+  measurements: 1000 files
+  point_cloud: 1000 files
+  point_cloud_transformed: 1000 files
+
+Folder: EX04AM33
+  gray: 750 files
+  measurements: 750 files
+  point_cloud: 750 files
+  point_cloud_transformed: 750 files
+
+Folder: EX03AM37
+  gray: 1009 files
+  measurements: 1009 files
+  point_cloud: 1009 files
+  point_cloud_transformed: 1009 files
+
+Folder: EX04AM14
+  gray: 1372 files
+  measurements: 1372 files
+  point_cloud: 1372 files
+  point_cloud_transformed: 1372 files
+
+Folder: EX05AM31
+  gray: 1006 files
+  measurements: 1006 files
+  point_cloud: 1006 files
+  point_cloud_transformed: 1006 files
+
+Folder: EX01PM23
+  gray: 1000 files
+  measurements: 1000 files
+  point_cloud: 1000 files
+  point_cloud_transformed: 1000 files
+
+Folder: EX01PM02
+  gray: 850 files
+  measurements: 850 files
+  point_cloud: 850 files
+  point_cloud_transformed: 850 files
+
+Folder: EX06PM12
+  gray: 689 files
+  measurements: 689 files
+  point_cloud: 689 files
+  point_cloud_transformed: 689 files
+
+Folder: EX03AM22
+  gray: 801 files
+  measurements: 801 files
+  point_cloud: 801 files
+  point_cloud_transformed: 801 files
+
+Folder: EX01PM10
+  gray: 1450 files
+  measurements: 1450 files
+  point_cloud: 1450 files
+  point_cloud_transformed: 1450 files
+
+Folder: EX05AM09
+  gray: 739 files
+  measurements: 739 files
+  point_cloud: 739 files
+  point_cloud_transformed: 739 files
+
+Folder: EX06AM24
+  gray: 254 files
+  measurements: 254 files
+  point_cloud: 254 files
+  point_cloud_transformed: 254 files
+
+Folder: EX05AM28
+  gray: 211 files
+  measurements: 211 files
+  point_cloud: 211 files
+  point_cloud_transformed: 211 files
+
+Folder: EX04AM10
+  gray: 1570 files
+  measurements: 1570 files
+  point_cloud: 1570 files
+  point_cloud_transformed: 1570 files
+
+Folder: EX06AM09
+  gray: 313 files
+  measurements: 313 files
+  point_cloud: 313 files
+  point_cloud_transformed: 313 files
+
+Folder: EX06AM20
+  gray: 393 files
+  measurements: 393 files
+  point_cloud: 393 files
+  point_cloud_transformed: 393 files
+
+Folder: EX05AM38
+  gray: 580 files
+  measurements: 580 files
+  point_cloud: 580 files
+  point_cloud_transformed: 580 files
+
+Folder: EX06AM30
+  gray: 262 files
+  measurements: 262 files
+  point_cloud: 262 files
+  point_cloud_transformed: 262 files
+
+Folder: EX00PM05
+  gray: 500 files
+  measurements: 500 files
+  point_cloud: 500 files
+  point_cloud_transformed: 500 files
+
+Folder: EX04AM22
+  gray: 231 files
+  measurements: 231 files
+  point_cloud: 231 files
+  point_cloud_transformed: 231 files
+
+Folder: EX02AM02
+  gray: 1525 files
+  measurements: 1525 files
+  point_cloud: 1525 files
+  point_cloud_transformed: 1525 files
+
+Folder: EX03AM34
+  gray: 716 files
+  measurements: 716 files
+  point_cloud: 716 files
+  point_cloud_transformed: 716 files
+
+Folder: EX02AM05
+  gray: 450 files
+  measurements: 450 files
+  point_cloud: 450 files
+  point_cloud_transformed: 450 files
+
+Folder: EX06PM05
+  gray: 505 files
+  measurements: 505 files
+  point_cloud: 505 files
+  point_cloud_transformed: 505 files
+
+Folder: EX06AM25
+  gray: 745 files
+  measurements: 745 files
+  point_cloud: 745 files
+  point_cloud_transformed: 745 files
+
+Folder: EX03AM13
+  gray: 580 files
+  measurements: 580 files
+  point_cloud: 580 files
+  point_cloud_transformed: 580 files
+
+Folder: EX01PM19
+  gray: 875 files
+  measurements: 875 files
+  point_cloud: 875 files
+  point_cloud_transformed: 875 files
+
+Folder: EX06AM17
+  gray: 606 files
+  measurements: 606 files
+  point_cloud: 606 files
+  point_cloud_transformed: 606 files
+
+Folder: EX03AM07
+  gray: 340 files
+  measurements: 340 files
+  point_cloud: 340 files
+  point_cloud_transformed: 340 files
+
+Folder: EX04AM21
+  gray: 799 files
+  measurements: 799 files
+  point_cloud: 799 files
+  point_cloud_transformed: 799 files
+
+Folder: EX06AM01
+  gray: 446 files
+  measurements: 446 files
+  point_cloud: 446 files
+  point_cloud_transformed: 446 files
+
+Folder: EX03AM03
+  gray: 1399 files
+  measurements: 1399 files
+  point_cloud: 1399 files
+  point_cloud_transformed: 1399 files
+
+Folder: EX01PM13
+  gray: 1300 files
+  measurements: 1300 files
+  point_cloud: 1300 files
+  point_cloud_transformed: 1300 files
+
+Folder: EX02AM17
+  gray: 1735 files
+  measurements: 1735 files
+  point_cloud: 1735 files
+  point_cloud_transformed: 1735 files
+
+Folder: EX04AM35
+  gray: 1487 files
+  measurements: 1487 files
+  point_cloud: 1487 files
+  point_cloud_transformed: 1487 files
+
+Folder: EX00PM17
+  gray: 700 files
+  measurements: 700 files
+  point_cloud: 700 files
+  point_cloud_transformed: 700 files
+
+Folder: EX01PM01
+  gray: 1600 files
+  measurements: 1600 files
+  point_cloud: 1600 files
+  point_cloud_transformed: 1600 files
+
+Folder: EX05AM47
+  gray: 530 files
+  measurements: 530 files
+  point_cloud: 530 files
+  point_cloud_transformed: 530 files
+
+Folder: EX04AM01
+  gray: 1583 files
+  measurements: 1583 files
+  point_cloud: 1583 files
+  point_cloud_transformed: 1583 files
+
+Folder: EX03AM01-1
+  gray: 188 files
+  measurements: 188 files
+  point_cloud: 188 files
+  point_cloud_transformed: 188 files
+
+Folder: EX03AM17
+  gray: 467 files
+  measurements: 467 files
+  point_cloud: 467 files
+  point_cloud_transformed: 467 files
+
+Folder: EX04AM04
+  gray: 293 files
+  measurements: 293 files
+  point_cloud: 293 files
+  point_cloud_transformed: 293 files
+
+Folder: EX06AM22
+  gray: 1055 files
+  measurements: 1055 files
+  point_cloud: 1055 files
+  point_cloud_transformed: 1055 files
+
+Folder: EX01PM03
+  gray: 695 files
+  measurements: 695 files
+  point_cloud: 695 files
+  point_cloud_transformed: 695 files
+
+Folder: EX01PM24
+  gray: 374 files
+  measurements: 374 files
+  point_cloud: 374 files
+  point_cloud_transformed: 374 files
+
+Folder: EX02AM20-0
+  gray: 520 files
+  measurements: 520 files
+  point_cloud: 520 files
+  point_cloud_transformed: 520 files
+
+Folder: EX04AM18
+  gray: 457 files
+  measurements: 457 files
+  point_cloud: 457 files
+  point_cloud_transformed: 457 files
+
+Folder: EX05AM44
+  gray: 696 files
+  measurements: 696 files
+  point_cloud: 696 files
+  point_cloud_transformed: 696 files
+
+Folder: EX06AM00
+  gray: 493 files
+  measurements: 493 files
+  point_cloud: 493 files
+  point_cloud_transformed: 493 files
+
+Folder: EX04AM00
+  gray: 280 files
+  measurements: 280 files
+  point_cloud: 280 files
+  point_cloud_transformed: 280 files
+
+Folder: EX06PM19
+  gray: 453 files
+  measurements: 453 files
+  point_cloud: 453 files
+  point_cloud_transformed: 453 files
+
+Folder: EX05AM36
+  gray: 194 files
+  measurements: 194 files
+  point_cloud: 194 files
+  point_cloud_transformed: 194 files
+
+Folder: EX02AM09
+  gray: 1525 files
+  measurements: 1525 files
+  point_cloud: 1525 files
+  point_cloud_transformed: 1525 files
+
+Folder: EX05AM20
+  gray: 319 files
+  measurements: 319 files
+  point_cloud: 319 files
+  point_cloud_transformed: 319 files
+
+Folder: EX06AM14
+  gray: 703 files
+  measurements: 703 files
+  point_cloud: 703 files
+  point_cloud_transformed: 703 files
+
+Folder: EX06AM05
+  gray: 945 files
+  measurements: 945 files
+  point_cloud: 945 files
+  point_cloud_transformed: 945 files
+
+Folder: EX06PM11
+  gray: 778 files
+  measurements: 778 files
+  point_cloud: 778 files
+  point_cloud_transformed: 778 files
+
+Folder: EX00PM11
+  gray: 700 files
+  measurements: 700 files
+  point_cloud: 700 files
+  point_cloud_transformed: 700 files
+
+Folder: EX06AM07
+  gray: 124 files
+  measurements: 124 files
+  point_cloud: 124 files
+  point_cloud_transformed: 124 files
+
+Folder: EX03AM23
+  gray: 805 files
+  measurements: 805 files
+  point_cloud: 805 files
+  point_cloud_transformed: 805 files
+
+Folder: EX03AM31
+  gray: 1600 files
+  measurements: 1600 files
+  point_cloud: 1600 files
+  point_cloud_transformed: 1600 files
+
+Folder: EX03AM04
+  gray: 991 files
+  measurements: 991 files
+  point_cloud: 991 files
+  point_cloud_transformed: 991 files
+
+Folder: EX06AM10
+  gray: 718 files
+  measurements: 718 files
+  point_cloud: 718 files
+  point_cloud_transformed: 718 files
+
+Folder: EX03AM06
+  gray: 1553 files
+  measurements: 1553 files
+  point_cloud: 1553 files
+  point_cloud_transformed: 1553 files
+
+Folder: EX01PM20
+  gray: 1825 files
+  measurements: 1825 files
+  point_cloud: 1825 files
+  point_cloud_transformed: 1825 files
+
+Folder: EX06PM10
+  gray: 931 files
+  measurements: 931 files
+  point_cloud: 931 files
+  point_cloud_transformed: 931 files
+
+Folder: EX03AM27
+  gray: 779 files
+  measurements: 779 files
+  point_cloud: 779 files
+  point_cloud_transformed: 779 files
+
+Folder: EX06PM02
+  gray: 589 files
+  measurements: 589 files
+  point_cloud: 589 files
+  point_cloud_transformed: 589 files
+
+Folder: EX00PM07
+  gray: 750 files
+  measurements: 750 files
+  point_cloud: 750 files
+  point_cloud_transformed: 750 files
+
+Folder: EX01PM11
+  gray: 449 files
+  measurements: 449 files
+  point_cloud: 449 files
+  point_cloud_transformed: 449 files
+
+Folder: EX02AM14
+  gray: 910 files
+  measurements: 910 files
+  point_cloud: 910 files
+  point_cloud_transformed: 910 files
+
+Folder: EX02AM20-1
+  gray: 583 files
+  measurements: 583 files
+  point_cloud: 583 files
+  point_cloud_transformed: 583 files
+
+Folder: EX04AM16
+  gray: 1628 files
+  measurements: 1628 files
+  point_cloud: 1628 files
+  point_cloud_transformed: 1628 files
+
+Folder: EX06PM13
+  gray: 443 files
+  measurements: 443 files
+  point_cloud: 443 files
+  point_cloud_transformed: 443 files
+
+Folder: EX02AM07
+  gray: 951 files
+  measurements: 951 files
+  point_cloud: 951 files
+  point_cloud_transformed: 951 files
+
+Folder: EX01PM17
+  gray: 850 files
+  measurements: 850 files
+  point_cloud: 850 files
+  point_cloud_transformed: 850 files
+
+Folder: EX03AM15
+  gray: 1404 files
+  measurements: 1404 files
+  point_cloud: 1404 files
+  point_cloud_transformed: 1404 files
+
+Folder: EX05AM32
+  gray: 882 files
+  measurements: 882 files
+  point_cloud: 882 files
+  point_cloud_transformed: 882 files
+
+Folder: EX01PM21
+  gray: 650 files
+  measurements: 650 files
+  point_cloud: 650 files
+  point_cloud_transformed: 650 files
+
+Folder: EX05AM45
+  gray: 378 files
+  measurements: 378 files
+  point_cloud: 378 files
+  point_cloud_transformed: 378 files
+
+Folder: EX05AM05
+  gray: 630 files
+  measurements: 630 files
+  point_cloud: 630 files
+  point_cloud_transformed: 630 files
+
+Folder: EX03AM11
+  gray: 1249 files
+  measurements: 1249 files
+  point_cloud: 1249 files
+  point_cloud_transformed: 1249 files
+
+Folder: EX06PM24
+  gray: 313 files
+  measurements: 313 files
+  point_cloud: 313 files
+  point_cloud_transformed: 313 files
+
+Folder: EX06AM18
+  gray: 324 files
+  measurements: 324 files
+  point_cloud: 324 files
+  point_cloud_transformed: 324 files
+
+Folder: EX06PM18
+  gray: 229 files
+  measurements: 229 files
+  point_cloud: 229 files
+  point_cloud_transformed: 229 files
+
+Folder: EX02AM00
+  gray: 1150 files
+  measurements: 1150 files
+  point_cloud: 1150 files
+  point_cloud_transformed: 1150 files
+
+Folder: EX05AM22
+  gray: 308 files
+  measurements: 308 files
+  point_cloud: 308 files
+  point_cloud_transformed: 308 files
+
+Folder: EX03AM30
+  gray: 1484 files
+  measurements: 1484 files
+  point_cloud: 1484 files
+  point_cloud_transformed: 1484 files
+
+Folder: EX03AM12
+  gray: 499 files
+  measurements: 499 files
+  point_cloud: 499 files
+  point_cloud_transformed: 499 files
+
+Folder: EX03AM14
+  gray: 235 files
+  measurements: 235 files
+  point_cloud: 235 files
+  point_cloud_transformed: 235 files
+
+Folder: EX01PM07
+  gray: 1150 files
+  measurements: 1150 files
+  point_cloud: 1150 files
+  point_cloud_transformed: 1150 files
+
+Folder: EX06AM04
+  gray: 1056 files
+  measurements: 1056 files
+  point_cloud: 1056 files
+  point_cloud_transformed: 1056 files
+
+Folder: EX04AM26
+  gray: 484 files
+  measurements: 484 files
+  point_cloud: 484 files
+  point_cloud_transformed: 484 files
+
+Folder: EX06AM29
+  gray: 388 files
+  measurements: 388 files
+  point_cloud: 388 files
+  point_cloud_transformed: 388 files
+
+Folder: EX02AM04
+  gray: 1201 files
+  measurements: 1201 files
+  point_cloud: 1201 files
+  point_cloud_transformed: 1201 files
+
+Folder: EX06AM27
+  gray: 242 files
+  measurements: 242 files
+  point_cloud: 242 files
+  point_cloud_transformed: 242 files
+
+Folder: EX04AM15
+  gray: 1745 files
+  measurements: 1745 files
+  point_cloud: 1745 files
+  point_cloud_transformed: 1745 files
+
+Folder: EX06AM08
+  gray: 426 files
+  measurements: 426 files
+  point_cloud: 426 files
+  point_cloud_transformed: 426 files
+
+Folder: EX02AM22
+  gray: 465 files
+  measurements: 465 files
+  point_cloud: 465 files
+  point_cloud_transformed: 465 files
+
+
+Folders with consistent file counts:
+
+  EX03AM26: 1720 files
+  EX02AM18: 1625 files
+  EX04AM32: 1549 files
+  EX04AM03: 457 files
+  EX06AM28: 482 files
+  EX03AM19: 1198 files
+  EX03AM39: 269 files
+  EX04AM05: 1498 files
+  EX04AM12: 1558 files
+  EX03AM05: 335 files
+  EX00PM16: 475 files
+  EX06PM00: 220 files
+  EX03AM25: 585 files
+  EX04AM29: 918 files
+  EX06PM07: 829 files
+  EX00PM10: 1236 files
+  EX06AM15: 310 files
+  EX05AM27: 490 files
+  EX05AM42: 552 files
+  EX04AM09: 844 files
+  EX03AM01-0: 251 files
+  EX02AM08: 1511 files
+  EX05AM24: 253 files
+  EX01PM12: 1900 files
+  EX06PM14: 280 files
+  EX05AM30: 146 files
+  EX05AM07: 503 files
+  EX06AM11: 498 files
+  EX05AM19: 622 files
+  EX06PM01: 294 files
+  EX04AM23: 1563 files
+  EX05AM37: 252 files
+  EX00PM04: 500 files
+  EX01PM09: 800 files
+  EX00AM03: 500 files
+  EX05AM46: 615 files
+  EX00PM18: 602 files
+  EX03AM16: 1582 files
+  EX03AM32: 1018 files
+  EX00AM00: 943 files
+  EX06PM03: 305 files
+  EX05AM41: 287 files
+  EX03AM29: 431 files
+  EX04AM02: 1570 files
+  EX00PM09: 1000 files
+  EX05AM06: 314 files
+  EX06AM21: 580 files
+  EX05AM26: 541 files
+  EX05AM08: 642 files
+  EX06AM19: 294 files
+  EX05AM03: 794 files
+  EX03AM21: 979 files
+  EX06PM21: 703 files
+  EX06PM04: 989 files
+  EX03AM36: 929 files
+  EX02AM16: 610 files
+  EX04AM13: 1561 files
+  EX05AM02: 845 files
+  EX06AM26: 336 files
+  EX00PM06: 1000 files
+  EX06AM06: 226 files
+  EX05AM04: 726 files
+  EX05AM29: 471 files
+  EX03AM08: 1018 files
+  EX06AM32: 869 files
+  EX05AM17: 355 files
+  EX05AM48: 918 files
+  EX03AM10: 476 files
+  EX04AM31: 519 files
+  EX01PM04: 1250 files
+  EX04AM19: 1811 files
+  EX03AM02: 703 files
+  EX04AM30: 1549 files
+  EX00PM03: 503 files
+  EX00PM13: 1250 files
+  EX05AM49: 796 files
+  EX01PM00: 1500 files
+  EX04AM36: 599 files
+  EX05AM01: 507 files
+  EX04AM08: 619 files
+  EX04AM25: 1471 files
+  EX00PM08: 675 files
+  EX04AM20: 450 files
+  EX05AM16: 140 files
+  EX00PM00: 1000 files
+  EX04AM28: 978 files
+  EX05AM35: 465 files
+  EX02AM11: 875 files
+  EX03AM35: 827 files
+  EX02AM03: 475 files
+  EX02AM15: 1600 files
+  EX01PM22: 1700 files
+  EX04AM06: 1539 files
+  EX06AM16: 665 files
+  EX06PM06: 903 files
+  EX01PM08: 1750 files
+  EX00AM02: 500 files
+  EX05AM14: 724 files
+  EX05AM40: 972 files
+  EX05AM15: 218 files
+  EX06AM12: 172 files
+  EX03AM09-1: 1047 files
+  EX06AM02: 192 files
+  EX03AM24: 809 files
+  EX02AM21: 1320 files
+  EX06PM08: 877 files
+  EX03AM20: 1590 files
+  EX05AM12: 473 files
+  EX01PM18: 449 files
+  EX05AM11: 1038 files
+  EX04AM11: 1023 files
+  EX06AM31: 686 files
+  EX03AM40: 306 files
+  EX02AM12: 1620 files
+  EX03AM33: 424 files
+  EX05AM34: 733 files
+  EX04AM24: 814 files
+  EX05AM18: 822 files
+  EX04AM34: 1477 files
+  EX05AM39: 272 files
+  EX06PM20: 560 files
+  EX01PM14: 1000 files
+  EX04AM33: 750 files
+  EX03AM37: 1009 files
+  EX04AM14: 1372 files
+  EX05AM31: 1006 files
+  EX01PM23: 1000 files
+  EX01PM02: 850 files
+  EX06PM12: 689 files
+  EX03AM22: 801 files
+  EX01PM10: 1450 files
+  EX05AM09: 739 files
+  EX06AM24: 254 files
+  EX05AM28: 211 files
+  EX04AM10: 1570 files
+  EX06AM09: 313 files
+  EX06AM20: 393 files
+  EX05AM38: 580 files
+  EX06AM30: 262 files
+  EX00PM05: 500 files
+  EX04AM22: 231 files
+  EX02AM02: 1525 files
+  EX03AM34: 716 files
+  EX02AM05: 450 files
+  EX06PM05: 505 files
+  EX06AM25: 745 files
+  EX03AM13: 580 files
+  EX01PM19: 875 files
+  EX06AM17: 606 files
+  EX03AM07: 340 files
+  EX04AM21: 799 files
+  EX06AM01: 446 files
+  EX03AM03: 1399 files
+  EX01PM13: 1300 files
+  EX02AM17: 1735 files
+  EX04AM35: 1487 files
+  EX00PM17: 700 files
+  EX01PM01: 1600 files
+  EX05AM47: 530 files
+  EX04AM01: 1583 files
+  EX03AM01-1: 188 files
+  EX03AM17: 467 files
+  EX04AM04: 293 files
+  EX06AM22: 1055 files
+  EX01PM03: 695 files
+  EX01PM24: 374 files
+  EX02AM20-0: 520 files
+  EX04AM18: 457 files
+  EX05AM44: 696 files
+  EX06AM00: 493 files
+  EX04AM00: 280 files
+  EX06PM19: 453 files
+  EX05AM36: 194 files
+  EX02AM09: 1525 files
+  EX05AM20: 319 files
+  EX06AM14: 703 files
+  EX06AM05: 945 files
+  EX06PM11: 778 files
+  EX00PM11: 700 files
+  EX06AM07: 124 files
+  EX03AM23: 805 files
+  EX03AM31: 1600 files
+  EX03AM04: 991 files
+  EX06AM10: 718 files
+  EX03AM06: 1553 files
+  EX01PM20: 1825 files
+  EX06PM10: 931 files
+  EX03AM27: 779 files
+  EX06PM02: 589 files
+  EX00PM07: 750 files
+  EX01PM11: 449 files
+  EX02AM14: 910 files
+  EX02AM20-1: 583 files
+  EX04AM16: 1628 files
+  EX06PM13: 443 files
+  EX02AM07: 951 files
+  EX01PM17: 850 files
+  EX03AM15: 1404 files
+  EX05AM32: 882 files
+  EX01PM21: 650 files
+  EX05AM45: 378 files
+  EX05AM05: 630 files
+  EX03AM11: 1249 files
+  EX06PM24: 313 files
+  EX06AM18: 324 files
+  EX06PM18: 229 files
+  EX02AM00: 1150 files
+  EX05AM22: 308 files
+  EX03AM30: 1484 files
+  EX03AM12: 499 files
+  EX03AM14: 235 files
+  EX01PM07: 1150 files
+  EX06AM04: 1056 files
+  EX04AM26: 484 files
+  EX06AM29: 388 files
+  EX02AM04: 1201 files
+  EX06AM27: 242 files
+  EX04AM15: 1745 files
+  EX06AM08: 426 files
+  EX02AM22: 465 files
+
+Total files in consistent folders: 175196
+
+Folders with inconsistent file counts:
+
+  None
